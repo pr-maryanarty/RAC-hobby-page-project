@@ -1,0 +1,22 @@
+body {
+  background-color: azure;
+}
+img {
+  width: 400px;
+}
+#definition {
+  font-weight: 900;
+  padding: 50px;
+}
+.wrapper {
+  width: 80%;
+  background: linear-gradient(#b664e6, #ebecf3);
+
+  margin: auto;
+  border-radius: 30px;
+}
+h1 {
+  margin: auto;
+  text-align: center;
+  font-size: 100px;
+}
