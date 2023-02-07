@@ -30,8 +30,9 @@ h1 {
   font-size: 4rem;
 }
 h2 {
-  padding-left: 2rem;
-  color: darkblue;
+  padding-left: 4rem;
+  color: rgb(0, 0, 184);
+  font-size: 2rem;
 }
 footer {
   text-align: center;
@@ -42,7 +43,14 @@ footer {
   background: linear-gradient(#b664e6, rgb(252, 236, 251));
 }
 p {
-  padding-left: 1rem;
-  font-size: 1rem;
+  padding-left: 3rem;
+  font-size: 1.5rem;
   margin: 1rem;
+}
+li {
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+ul {
+  padding-left: 4rem;
 }
